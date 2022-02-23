@@ -1,2 +1,2 @@
 # SQLZoo
-SQL statement practice. Completed while going through The Oden Project.
+SQL statement practice. Completed while going through The Odin Project.
